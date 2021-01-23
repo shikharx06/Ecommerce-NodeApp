@@ -1,6 +1,6 @@
 # Full stack ecommerce online store application
 
-#### front-end codes [click here](https://github.com/levelopers/Ecommerce-Reactjs)
+#### front-end codes [click here](https://github.com/shikharx06/ecommerce-reactApp)
 
 #### populate data: run `node ./seed` (make sure you fill up `mongo-config` file with mongodb url)
 
